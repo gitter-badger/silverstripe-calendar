@@ -1,4 +1,5 @@
 # SilverStripe Calendar
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/titledk/silverstripe-calendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 _by Title Web Solutions_
 
